@@ -1,0 +1,4 @@
+recordInterval:500
+recordSeconds:5
+200,730,white
+1000,750,black
